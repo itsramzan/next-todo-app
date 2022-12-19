@@ -1,0 +1,94 @@
+{
+  "todos": [
+    {
+      "text": "HTML5",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "text": "CSS3",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "text": "TypeScript",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "text": "MongoDB",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "text": "Docker",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "text": "TailwindCSS",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "text": "Rust",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "text": "React Native",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "text": "Node.js",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "text": "Express.js",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "text": "Go",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "text": "Python",
+      "completed": true,
+      "id": 12
+    },
+    {
+      "text": "FastAPI",
+      "completed": true,
+      "id": 13
+    },
+    {
+      "text": "Prisma",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "text": "JavaScript",
+      "completed": true,
+      "id": 15
+    },
+    {
+      "text": "React.js",
+      "completed": true,
+      "id": 16
+    },
+    {
+      "text": "Solidity",
+      "completed": false,
+      "id": 17
+    },
+    {
+      "text": "Git & Github",
+      "completed": true,
+      "id": 18
+    }
+  ]
+}

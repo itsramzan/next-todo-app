@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Rimon Ahmed",
+    "dob": "19-09-2001",
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Ahmed",
+    "dob": "11-04-1995",
+    "gender": "male"
+  },
+  {
+    "id": 3,
+    "name": "Montaha Era",
+    "dob": "03-08-1998",
+    "gender": "female"
+  },
+  {
+    "id": 4,
+    "name": "Rayan Liton",
+    "dob": "02-03-2002",
+    "gender": "male"
+  },
+  {
+    "id": 5,
+    "name": "Robin Ahmed",
+    "dob": "11-01-2003",
+    "gender": "male"
+  },
+  {
+    "id": 6,
+    "name": "Ripon Hossain",
+    "dob": "21-07-2001",
+    "gender": "male"
+  },
+  {
+    "id": 7,
+    "name": "Nousin Shetu",
+    "dob": "01-06-2002",
+    "gender": "female"
+  },
+  {
+    "id": 8,
+    "name": "Ononna Akter",
+    "dob": "14-06-2000",
+    "gender": "female"
+  },
+  {
+    "id": 9,
+    "name": "Rifat Al Rabbi",
+    "dob": "07-12-1997",
+    "gender": "male"
+  }
+]
